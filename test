@@ -1,1 +1,46 @@
-Hello World.....!!!!
+Hello World.....!!!
+
+Today's command
+
+[200~ 1  sudo dnf install oracle-instantclient-*.rpm
+    2  sudo dnf install oracle-instantclient-basic-21.9.0.0.0-1.el8.x86_64.rpm
+    3  apt-get install dnf
+    4  sudo dnf install oracle-instantclient-basic-21.9.0.0.0-1.el8.x86_64.rpm
+    5  sudo dnf install oracle-instantclient-*.rpm
+    6  apt-get install --skip-broken
+    7  --skip-broken
+    8  ls
+    9  sudo dnf install git-all
+   10  sudo apt-get update
+   11  sudo dnf install git-all
+   12  sudo apt install git-all
+   13  sudo apt-get update
+   14  ls
+   15  git config --global.user.name "anujxx"
+   16  git config --global user.name "anujxx"
+   17  gir config --global user.email "ganujxx@gmail.com"
+   18  git config --global user.email "ganujxx@gmail.com"
+   19  git config --list
+   20  mkdir anuj
+   21  ls
+   22  cd anuj/
+   23  ls
+   24  git init
+   25  touch test
+   26  ls
+   27  vi test
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "This is the first messege"
+   32  git status
+   33  git log
+   34  git show
+   35  git show 89f9d2b84a1079eff
+   36  gir remote add origin https://github.com/anujxx/DevOps.git
+   37  git remote add origin https://github.com/anujxx/DevOps.git
+   38  git push -u origin master
+   39  git clone https://github.com/anujxx/DevOps
+   40  git push -u origin master
+   41  ls
+   42  cd DevOps/!
